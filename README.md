@@ -8,6 +8,12 @@
 
 ## <p align="center"><b>もう無理だって思ったら、逃げていい</b></p>
 
+### Upptime in a nutshell
+
+| Name | Badges |
+| :----: | :----: |
+| Github Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/response-time.json) |
+
 ### Caveat
 
 * Github **STILL** doesn't support css style rendering.[^1]
