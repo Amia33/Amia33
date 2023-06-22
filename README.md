@@ -12,6 +12,6 @@
 
 #### Courtesy
 
-© SEGA / © Colorful Palette Inc. / © Crypton Future Media, INC. www.piapro.net <a href="https://www.piapro.net"><img src="img/piapro.png" alt="Piapro logo" style="width:50px;height:12px;"></img></a> All rights reserved.
+* © SEGA / © Colorful Palette Inc. / © Crypton Future Media, INC. www.piapro.net <a href="https://www.piapro.net"><img src="img/piapro.png" alt="Piapro logo" style="width:50px;height:12px;"></img></a> All rights reserved.
 
 [^1]: Except height/width setting.
