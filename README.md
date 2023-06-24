@@ -13,9 +13,11 @@
 | Name | Badges |
 | :----: | :----: |
 | Bitbucket Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/bitbucket/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/bitbucket/response-time.json) |
+| Cloudflare Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/cloudflare/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/cloudflare/response-time.json) |
 | Github Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/response-time.json) |
 | Gitlab Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/gitlab/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/gitlab/response-time.json) |
 | Google Firebase | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/google-firebase/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/google-firebase/response-time.json) |
+| Netlify | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/netlify/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/netlify/response-time.json) |
 | Sourceforge | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/sourceforge/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/sourceforge/response-time.json) |
 | Surge | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/surge/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/surge/response-time.json) |
 
