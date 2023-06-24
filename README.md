@@ -16,6 +16,7 @@
 | Github Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/response-time.json) |
 | Gitlab Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/gitlab/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/gitlab/response-time.json) |
 | Google Firebase Hosting | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/google-firebase/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/google-firebase/response-time.json) |
+| Surge | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/surge/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/surge/response-time.json) |
 
 ### Caveat
 
