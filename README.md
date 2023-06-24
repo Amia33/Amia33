@@ -21,6 +21,7 @@
 | Render | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/render/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/render/response-time.json) |
 | Sourceforge | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/sourceforge/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/sourceforge/response-time.json) |
 | Surge | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/surge/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/surge/response-time.json) |
+| Vercel | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/vercel/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/vercel/response-time.json) |
 
 ### Caveat
 
