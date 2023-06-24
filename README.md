@@ -12,6 +12,7 @@
 
 | Name | Badges |
 | :----: | :----: |
+| Bitbucket Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/bitbucket/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/bitbucket/response-time.json) |
 | Github Pages | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/uptime.json) ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amia33/Upptime/master/api/github/response-time.json) |
 
 ### Caveat
