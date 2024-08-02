@@ -8,3 +8,4 @@
 ## Links
 
 - [Blog](https://amia.work)
+- [Ping](https://ping.amia.work)
