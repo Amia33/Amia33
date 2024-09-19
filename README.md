@@ -15,3 +15,7 @@
 
 - [Blog](https://amia.work)
 - [Ping](https://ping.amia.work)
+
+## Credits
+
+Avatar: [鴨吉](https://x.com/iikamo7)
