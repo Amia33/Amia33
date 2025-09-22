@@ -62,3 +62,25 @@ services:
     ports:
       - {PORT}:9113
     command: --nginx.scrape-uri=http://172.17.0.1:{PORT}/stub_status
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - {PORT}:27017
+    volumes:
+      - ./mongodata:/data/db
+  counter:
+    image: {IMAGE}
+    container_name: counter
+    restart: always
+    ports:
+      - {PORT}:3000
+    environment:
+      - APP_SITE={APP_SITE}
+      - DB_INTERVAL=0
+      - DB_TYPE=mongodb
+      - DB_URL=mongodb://172.17.0.1:{PORT}/counter
+      - LOG_LEVEL=info
+    depends_on:
+      - mongodb
