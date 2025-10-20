@@ -1,9 +1,0 @@
-auto ens5
-iface ens5 inet static
-address {ADDRESS}
-netmask {NETMASK}
-gateway {GATEWAY}
-iface ens5 inet6 static
-address {ADDRESS}
-netmask {NETMASK}
-gateway {GATEWAY}

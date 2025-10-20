@@ -1,3 +1,0 @@
-Acquire::http::Proxy "socks5h://127.0.0.1:{PORT}";
-Acquire::https::Proxy "socks5h://127.0.0.1:{PORT}";
-Acquire::socks::Proxy "socks5h://127.0.0.1:{PORT}";
